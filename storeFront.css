@@ -1,0 +1,132 @@
+
+   
+
+body{ 
+    background-color: white;
+   
+}
+.picture{
+    width: 300px; 
+    }
+ul {
+    list-style: none;
+    float: right; 
+}
+
+#infoLeft{
+ float: left;
+ position: absolute;
+ width: 625px;
+ height: 250px; 
+ margin: -6.5em 0.5em 2.0em 0.5em;
+ padding: 1.0em;
+ background-color: red;
+ border: black;
+ border-radius: 0.6em;
+}
+
+#infoRight{
+    float: right;
+    position: relative;
+    width: 625px;
+    height: 250px; 
+    margin: -6.5em 0.5em 2.0em 0.5em;
+    padding: 1.0em;
+    background-color: red;
+    border: black;
+    border-radius: 0.6em;
+}
+
+.title{
+    float: left;
+    margin-top: 20px;
+    position: absolute;
+    font-family: Happy Monkey; 
+    font-size: 30px;
+}
+
+.navOp{
+    margin-top: 50px;
+    height: 50px;
+}
+
+.navBar{
+    width: 100%;
+    /* background-color:black; */
+    float: center;
+    margin: -1.5em 0 0 0;
+    padding: 0.35em;
+    /* background-color: red; */
+    background:url(../kenzieStorefront/storefrontPics/cookiesline.jpg) center 150px;
+    height: 150px;
+    padding: 0 0.25em 0 0.2em;
+    vertical-align: middle; 
+}
+
+nav {
+    color:grey;
+    font-size: 2em;
+    letter-spacing: 0.04em;
+    padding: 1.0em 1.0em 0.5em;
+    margin-top: 23px;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right; 
+}
+nav li {
+    display: inline-block;
+    margin: 0;
+}
+nav li a, nav li a:visited {
+    text-decoration: none;
+    color:red;
+    padding: 0.3em 0.6em;
+}
+nav li a:hover {
+    color: white;
+    background-color:black;
+}
+
+.cookie{
+    position: absolute;
+    top: 100px;
+}
+
+.picture{
+    height: 250px;
+    width: 420px;
+}
+
+li{
+    display: inline-block; 
+}
+/* #infoLeft {
+    margin-top: 100px;
+} */
+.footer{
+    background:url(../kenzieStorefront/storefrontPics/cookiesline.jpg) center -60px;
+    height: 110px; 
+    width: 100%; 
+    position:absolute; 
+    bottom: -300px; 
+}
+.info{
+    position: absolute;
+    margin-top: 400px;
+    height: 400px;
+    width: 100%;
+
+}
+.infoLeft{ 
+    height: 400px;
+    width: 50%;
+
+}
+.infoRight{ 
+    height: 400px;
+    width: 50%;
+
+}
