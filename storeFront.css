@@ -57,7 +57,7 @@ ul {
     margin: -1.5em 0 0 0;
     padding: 0.35em;
     /* background-color: red; */
-    background:url(../kenzieStorefront/storefrontPics/cookiesline.jpg) center 150px;
+    background:url(storefrontPics/cookiesline.jpg) center 150px;
     height: 150px;
     padding: 0 0.25em 0 0.2em;
     vertical-align: middle; 
@@ -107,7 +107,7 @@ li{
     margin-top: 100px;
 } */
 .footer{
-    background:url(../kenzieStorefront/storefrontPics/cookiesline.jpg) center -60px;
+    background:url(storefrontPics/cookiesline.jpg) center -60px;
     height: 110px; 
     width: 100%; 
     position:absolute; 
